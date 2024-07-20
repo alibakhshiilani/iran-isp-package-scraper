@@ -1,0 +1,163 @@
+[
+    {
+        "title": "200GB",
+        "volume": "200GB",
+        "price": 530000,
+        "period": "365 Days",
+        "code": ""
+    },
+    {
+        "title": "600GB",
+        "volume": "600GB",
+        "price": 1166000,
+        "period": "365 Days",
+        "code": ""
+    },
+    {
+        "title": "400GB",
+        "volume": "400GB",
+        "price": 905000,
+        "period": "365 Days",
+        "code": ""
+    },
+    {
+        "title": "500GB",
+        "volume": "500GB",
+        "price": 925000,
+        "period": "180 Days",
+        "code": ""
+    },
+    {
+        "title": "300GB",
+        "volume": "300GB",
+        "price": 603000,
+        "period": "180 Days",
+        "code": ""
+    },
+    {
+        "title": "150GB",
+        "volume": "150GB",
+        "price": 362000,
+        "period": "180 Days",
+        "code": ""
+    },
+    {
+        "title": "100GB",
+        "volume": "100GB",
+        "price": 268000,
+        "period": "180 Days",
+        "code": ""
+    },
+    {
+        "title": "240GB",
+        "volume": "240GB",
+        "price": 516000,
+        "period": "90 Days",
+        "code": ""
+    },
+    {
+        "title": "120GB",
+        "volume": "120GB",
+        "price": 295000,
+        "period": "90 Days",
+        "code": ""
+    },
+    {
+        "title": "60GB",
+        "volume": "60GB",
+        "price": 172000,
+        "period": "90 Days",
+        "code": ""
+    },
+    {
+        "title": "Economical 4Mbps",
+        "volume": "Economical 4Mbps",
+        "price": 134000,
+        "period": "30 Days",
+        "code": "<p>for\u00a04Mbps\u00a0\u00a080GB\u00a0monthly</p>"
+    },
+    {
+        "title": "Economical 2Mbps",
+        "volume": "Economical 2Mbps",
+        "price": 108000,
+        "period": "30 Days",
+        "code": "<p>for\u00a02 Mbps\u00a0 60GB\u00a0monthly</p>"
+    },
+    {
+        "title": "200GB",
+        "volume": "200GB",
+        "price": 114000,
+        "period": "30 Days",
+        "code": ""
+    },
+    {
+        "title": "100GB",
+        "volume": "100GB",
+        "price": 67000,
+        "period": "30 Days",
+        "code": ""
+    },
+    {
+        "title": "90GB",
+        "volume": "90GB",
+        "price": 183000,
+        "period": "30 Days",
+        "code": ""
+    },
+    {
+        "title": "50GB",
+        "volume": "50GB",
+        "price": 118000,
+        "period": "30 Days",
+        "code": ""
+    },
+    {
+        "title": "30GB",
+        "volume": "30GB",
+        "price": 87000,
+        "period": "30 Days",
+        "code": ""
+    },
+    {
+        "title": "15GB",
+        "volume": "15GB",
+        "price": 55000,
+        "period": "30 Days",
+        "code": ""
+    },
+    {
+        "title": "10GB",
+        "volume": "10GB",
+        "price": 41600,
+        "period": "30 Days",
+        "code": ""
+    },
+    {
+        "title": "14GB",
+        "volume": "14GB",
+        "price": 59000,
+        "period": "7 Days",
+        "code": ""
+    },
+    {
+        "title": "7GB",
+        "volume": "7GB",
+        "price": 33500,
+        "period": "7 Days",
+        "code": ""
+    },
+    {
+        "title": "300GB",
+        "volume": "300GB",
+        "price": 161000,
+        "period": "30 Days",
+        "code": ""
+    },
+    {
+        "title": "8 Mbps Economical",
+        "volume": "8 Mbps Economical",
+        "price": 161000,
+        "period": "30 Days",
+        "code": "<p>for 8 Mbps\u00a0100GB\u00a0monthly</p>"
+    }
+]
